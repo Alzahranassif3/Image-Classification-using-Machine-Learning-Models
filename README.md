@@ -30,5 +30,5 @@ MLP achieved the highest accuracy compared to Naive Bayes and Decision Tree.
 3. Run:
 
 ```bash
-python app.py
+python AI_Project.py
 ```
